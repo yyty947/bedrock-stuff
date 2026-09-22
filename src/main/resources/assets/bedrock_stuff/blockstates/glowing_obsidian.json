@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrock_stuff:block/glowing_obsidian"
+    }
+  }
+}

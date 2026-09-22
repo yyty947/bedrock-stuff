@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/template_glass_pane_post", "textures": {"pane": "bedrock_stuff:block/hard_glass_light_blue", "edge": "bedrock_stuff:block/hard_glass_pane_top_light_blue"}}

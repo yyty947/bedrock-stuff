@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "bedrock_stuff",
+	"version": "${version}",
+	"name": "Bedrock Stuff",
+	"description": "Adds classic Bedrock Edition blocks to Minecraft",
+	"authors": ["jammy1"],
+	"contact": {},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bedrock_stuff.BedrockStuff"
+		],
+		"client": [
+			"com.bedrock_stuff.BedrockStuffClient"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

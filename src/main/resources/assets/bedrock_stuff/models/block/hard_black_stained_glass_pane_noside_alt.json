@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/template_glass_pane_noside_alt", "textures": {"pane": "bedrock_stuff:block/hard_glass_black", "edge": "bedrock_stuff:block/hard_glass_pane_top_black"}}

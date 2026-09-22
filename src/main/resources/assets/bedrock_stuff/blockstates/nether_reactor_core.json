@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bedrock_stuff:block/nether_reactor_core"
+    }
+  }
+}
